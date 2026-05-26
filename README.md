@@ -55,3 +55,15 @@ Project ini menerapkan:
 - Menu CLI
 
 ---
+
+# ▶️ Cara Menjalankan Program
+
+1. Pastikan Python sudah terinstall di komputer/laptop
+2. Download atau clone repository project ini
+3. Buka folder project menggunakan VS Code atau terminal
+4. Pastikan file utama bernama `main.py`
+5. Buka terminal pada folder project
+6. Jalankan perintah berikut:
+
+```bash
+python main.py
