@@ -55,7 +55,3 @@ Project ini menerapkan:
 - Menu CLI
 
 ---
-
-    ├── menu-program.png
-    ├── tambah-pesanan.png
-    └── struk-belanja.png
